@@ -1,1 +1,1 @@
-First project from the odin project about recipes
+First practice from The Odin about recipes
